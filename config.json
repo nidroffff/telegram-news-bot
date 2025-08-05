@@ -1,0 +1,37 @@
+{
+  "telegram_token": "8374122446:AAHW0H-4D8ckeay4WQYVuFqyFP4TXf5UpCo",
+  "admin_id": 849593211,
+  "keywords": [
+    "впи",
+    "вибропресс",
+    "бетон",
+    "цемент",
+    "стройка",
+    "тротyарная плитка",
+    "стеновые блоки",
+    "железобетон",
+    "строительные материалы",
+    "завод жби",
+    "сухие смеси",
+    "брусчатка",
+    "производство бетона"
+  ],
+  "rss_feeds_russia": [
+    "https://beton.ru/rss",
+    "https://cementonline.ru/rss",
+    "https://betonika.ru/rss",
+    "https://www.stroygaz.ru/rss",
+    "https://cementa.ru/rss",
+    "https://stroy-media.ru/rss"
+  ],
+  "rss_feeds_international": [
+    "https://www.cemnet.com/rss/news",
+    "https://www.worldcement.com/rss",
+    "https://www.concrete.org/rss/news",
+    "https://www.globalcement.com/news/rss"
+  ],
+  "ratio_russia": 0.7,
+  "ratio_international": 0.3,
+  "schedule_day": "friday",
+  "schedule_time": "10:00"
+}
